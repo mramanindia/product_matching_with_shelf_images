@@ -89,7 +89,7 @@ Here are the Steps in detail that involve in building the soluction.
     <li>Writing in the soluction.txt file </li>
 </ul>
 
-Rest other details are in the jupyter notebook notebook file.
+For Further details, Kindly Look for Jupyter Notebook Attached.
 
 
 
